@@ -1,0 +1,4 @@
+Model,RMSE,R2 Score
+Linear Regression,0.4934,0.7542
+Ridge Regression,0.4934,0.7542
+Decision Tree (max_depth=5),0.4968,0.7509
